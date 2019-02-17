@@ -1,0 +1,10 @@
+C:\Users\Mirandinha\Desktop\CadastroDePessoas\CadastroDePessoas\bin\Debug\CadastroDePessoas.exe.config
+C:\Users\Mirandinha\Desktop\CadastroDePessoas\CadastroDePessoas\bin\Debug\CadastroDePessoas.exe
+C:\Users\Mirandinha\Desktop\CadastroDePessoas\CadastroDePessoas\bin\Debug\CadastroDePessoas.pdb
+C:\Users\Mirandinha\Desktop\CadastroDePessoas\CadastroDePessoas\obj\Debug\CadastroDePessoas.csprojAssemblyReference.cache
+C:\Users\Mirandinha\Desktop\CadastroDePessoas\CadastroDePessoas\obj\Debug\CadastroDePessoas.Form1.resources
+C:\Users\Mirandinha\Desktop\CadastroDePessoas\CadastroDePessoas\obj\Debug\CadastroDePessoas.Properties.Resources.resources
+C:\Users\Mirandinha\Desktop\CadastroDePessoas\CadastroDePessoas\obj\Debug\CadastroDePessoas.csproj.GenerateResource.cache
+C:\Users\Mirandinha\Desktop\CadastroDePessoas\CadastroDePessoas\obj\Debug\CadastroDePessoas.csproj.CoreCompileInputs.cache
+C:\Users\Mirandinha\Desktop\CadastroDePessoas\CadastroDePessoas\obj\Debug\CadastroDePessoas.exe
+C:\Users\Mirandinha\Desktop\CadastroDePessoas\CadastroDePessoas\obj\Debug\CadastroDePessoas.pdb
